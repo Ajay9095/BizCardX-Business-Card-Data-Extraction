@@ -1,0 +1,7 @@
+pandas
+easyocr
+streamlit
+streamlit_option_menu
+mysql.connector
+PIL
+sqlite3
